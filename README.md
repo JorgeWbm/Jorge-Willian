@@ -1,7 +1,8 @@
 ## Olá! meu nome é Jorge Willian!
 
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:A45CFF&height=210&section=header&text=Jorge%20Willian&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front-end&descAlignY=50">
-](https://capsule-render.vercel.app/api?type=waving&height=300&color=38b000&text=Jorge%20Willian&section=header&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&descSize=1)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=38b000&text=Jorge%20Willian&section=header&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&descSize=1)">
+
+
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JorgeWbm&show_icons=true&count_private=true&hide_border=true&title_color=70e000&icon_color=70e000&text_color=EDEDED&bg_color=0d1117"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeWbm&layout=compact&hide_border=true&title_color=&text_color=EDEDED&bg_color=0d1117"/>
