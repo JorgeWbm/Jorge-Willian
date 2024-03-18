@@ -1,6 +1,6 @@
 ## Olá! meu nome é Jorge Willian!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=38b000&text=Jorge%20Willian&section=header&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&descSize=1)">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=210&color=38b000&text=Jorge%20Willian&section=header&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&descSize=1">
 
 
 <div align="center">
