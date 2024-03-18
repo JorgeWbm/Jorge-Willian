@@ -4,10 +4,9 @@
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JorgeWbm&show_icons=true&count_private=true&hide_border=true&title_color=70e000&icon_color=70e000&text_color=EDEDED&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeWbm&layout=compact&hide_border=true&title_color=0d1117&text_color=EDEDED&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeWbm&layout=compact&hide_border=true&title_color=D0C5EF&text_color=EDEDED&bg_color=0d1117"/>
 </div>
 
-<hr>
   
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,photoshop,illustrator"></img>
