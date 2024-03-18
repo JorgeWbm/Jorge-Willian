@@ -10,7 +10,7 @@
 <hr>
   
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,ts,spring,java,mysql,figma,git"></img>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,java,mysql,figma,git,photoshop"></img>
 </div>
   <img align="right" alt="Gif" height="170" width="145" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" >
 
