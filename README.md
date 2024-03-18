@@ -1,6 +1,6 @@
 ## Olá! meu nome é Jorge Willian!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:A45CFF&height=210&section=header&text=Iuri%20Henrique&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front-end&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:A45CFF&height=210&section=header&text=Jorge%20Willian&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front-end&descAlignY=50">
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iurihenriq&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=EDEDED&bg_color=0d1117"/>
@@ -17,15 +17,15 @@
 <hr>
  
  #### Hello World!!
-> Eu sou o Iuri, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas, no IFSP. Tenho como objetivo me profissionalizar na área de desenvolvimento Front-End.
+> Eu sou o Jorge, tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas, na Unifametro. Tenho como objetivo me profissionalizar na área de desenvolvimento Front-End.
 
- 🌱 Atualmente estou estudando TypeScript + Angular.
+ 🌱 Atualmente estou estudando Java, Html & Css e Design.
  
  <hr>
  
 <div> 
-   <a href="https://www.linkedin.com/in/iuri-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/iurihenriq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:iurinhg2@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jorge-willian-91ba07267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/jorgew_bm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jorgewillianbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
