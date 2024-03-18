@@ -27,3 +27,5 @@
   <a href = "mailto:jorgewillianbm@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
+
